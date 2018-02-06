@@ -3,4 +3,5 @@ Dazzle name="Dazzle"
 *.*.cancellable#parameter nullable default=null
 *.*.io_priority default=GLib.Priority.LOW
 GraphModel.iter_set skip=false
+GraphModel.iter_get_value.value out
 
